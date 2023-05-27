@@ -1,5 +1,5 @@
 # Learning C# 
-## [*LinkedIn Course certificate*](https://www.linkedin.com/learning/certificates/3d337a2d539e3c3bc633e3d62795c3cfc6e745c4b1946c4ac63dc88bd2b4e5f3)
+## [*LinkedIn Course Certificate*](https://www.linkedin.com/learning/certificates/3d337a2d539e3c3bc633e3d62795c3cfc6e745c4b1946c4ac63dc88bd2b4e5f3)
 
 
 ### 1. Overview of C#:
