@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyEUMc5cEHC5s0tIcqs4At/DzPZI+YHyAztx51ATUWagOkFfUWDny7n/xBn2QL1slDO3KwY+n9761PyB4Gs3aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DC\\Desktop\\vs\\Learning C#\\Examples\\Exercise Files\\Finished\\Overview\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
